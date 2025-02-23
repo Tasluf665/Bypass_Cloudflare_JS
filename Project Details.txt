@@ -1,0 +1,22 @@
+Name: Python Web Scraper Bypass Cloudflare Protection
+
+Link: https://www.freelancer.com/projects/python/Python-Web-Scraper-Bypass-Cloudflare/details
+
+Details: I need a Python expert who can provide a solution for scraping data from a website currently protected by Cloudflare. The site is a betting platform (www.racingandsports.com) where I want to collect horse racing results on a daily basis.
+
+Key Requirements:
+- Develop a Python-based web scraper capable of circumventing Cloudflare's security measures.
+- The scraper should automatically collect horse racing results from the site on a daily basis.
+- Only respond if you have a reliable method to resolve this issue.
+- Understanding of ethical and legal considerations surrounding web scraping and betting sites.
+
+Ideal Skills:
+- Proficient in Python, with extensive experience in web scraping.
+- Familiar with Cloudflare's security measures and how to bypass them.
+- Understanding of horse racing and betting data.
+- Knowledge of ethical and legal considerations surrounding web scraping.
+
+Please note: This project requires a professional who can deliver a robust solution. Thank you.
+
+My YouTube Video: https://youtu.be/309LX2IfbBk
+
