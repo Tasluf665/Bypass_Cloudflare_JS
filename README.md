@@ -47,4 +47,6 @@ If you have any questions or suggestions, feel free to reach out!
 - LinkedIn: [Md Tasluf Morshed](https://www.linkedin.com/in/md-tasluf-morshed/)
 - GitHub: [Tasluf665](https://github.com/Tasluf665)
 - Personal Website: [Tasluf Portfolio](https://tasluf665.github.io/portfolio-/index.html)
-- YouTube Video: [🔥 Scraping Cloudflare-Protected Betting Sites with JavaScript | Horse Racing Data Extraction](https://www.youtube.com/watch?v=309LX2IfbBk)
+
+## YouTube Overview
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/309LX2IfbBk/0.jpg)](https://www.youtube.com/watch?v=309LX2IfbBk)
